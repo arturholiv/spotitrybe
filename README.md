@@ -1,6 +1,6 @@
 # SpotTrybe
 Projeto Bônus da Trybe
 
-Utilizando requisições de API, realizamos a criação do SpotTrybe, para ouvir os trechos de músicas, com 50 categorias de música e diversas playlist, utilizando html, css e javascript, com teste utilizando o jest.
+Utilizando requisições da API do Spotify criamos o SpotTrybe para utilizar as playlists ouvir os trechos das músicas disponíveis pela API, utilizando HTML, CSS e Javascript Vanilla.
 
-Autores: Gabriel B., Bruno B., Artur H.
+Autores: Gabriel Benedicto, Bruno Bartolomeu e Artur Oliveira. 
