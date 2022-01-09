@@ -1,0 +1,23 @@
+{
+  "name": "spotitrybe",
+  "version": "1.0.0",
+  "description": "Projeto Bônus da Trybe",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoCBart/SpotTrybe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoCBart/SpotTrybe/issues"
+  },
+  "homepage": "https://github.com/BrunoCBart/SpotTrybe#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
