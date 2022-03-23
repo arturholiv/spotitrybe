@@ -1,4 +1,4 @@
-# SpotTrybe
+# SpotiTrybe
 
 Utilizando requisições da API do Spotify criamos o SpotTrybe para utilizar as playlists ouvir os trechos das músicas disponíveis pela API, utilizando HTML, CSS e Javascript Vanilla.
 
